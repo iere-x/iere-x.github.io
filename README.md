@@ -10,3 +10,4 @@
 | N001     | Copo de nieve pequeño | 0,50 € |
 | N002     | Copo de nieve grande  | 0,75 € |
 
+![Gato con ovillo](C:\Users\ierep\OneDrive\Imágenes\gato_ovillo.jpg)
