@@ -12,4 +12,4 @@
 
 ![Gato con ovillo](/github-light/gato_ovillo.jpg)
 
-[Echa un vistazo a la descripción de la empresa](descripcion)
+[Echa un vistazo a la descripción de la empresa](descripcion.md)
