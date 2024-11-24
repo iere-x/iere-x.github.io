@@ -1,0 +1,120 @@
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 10px;
+}
+
+body {
+    margin: 2.5%;
+    margin-left: 36px;
+}
+  
+body {
+    font-family:'Trebuchet MS', Arial;
+}
+
+a:hover {
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+    border-radius: 3px;
+    border: 2px solid gold;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38.8%;
+    border: 1px solid fuchsia;
+    margin-bottom: 5px;
+}
+
+caption {
+    display: block;
+    border: 1px solid fuchsia;
+}
+
+td {
+    padding: 6px;
+    border: 1px solid fuchsia;
+}
+
+footer {
+    background-color: lightblue;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+form {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+    border: 3px solid fuchsia;
+    padding: 10px;
+    background-color: rgb(136, 212, 205);
+}
+
+#nombre {
+    padding: 2.5px;
+    background-color: rgb(238, 186, 238);
+}
+
+#apellidos {
+    padding: 2.5px;
+    background-color: rgb(238, 186, 238);
+}
+
+#email {
+    padding: 2.5px;
+    background-color: rgb(238, 186, 238);
+}
+
+#grado {
+    padding: 2.5px;
+    background-color: rgb(238, 186, 238);
+}
+
+fieldset {
+    border: 1px solid fuchsia;
+}
+
+input {
+    padding:10px;
+    background-color: fuchsia;
+    color:white;
+    margin-top: 10px;
+}
+
+h1 {
+    background-color: fuchsia;
+    color: white;
+    padding: 10px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: turquoise;
+}
+
+li {
+    display: inline;
+    background-color: fuchsia;
+    margin-left: 20px;
+}
+
+header {
+    height: 50px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
