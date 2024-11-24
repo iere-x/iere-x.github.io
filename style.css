@@ -118,3 +118,7 @@ li a {
     color: white;
     text-decoration: none;
 }
+
+#submit {
+    background-color: fuchsia;
+}
