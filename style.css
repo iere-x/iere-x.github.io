@@ -87,7 +87,7 @@ fieldset {
 
 input {
     padding:10px;
-    background-color: fuchsia;
+    background-color: rgb(238, 186, 238);
     color:white;
     margin-top: 10px;
 }
