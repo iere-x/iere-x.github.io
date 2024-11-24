@@ -4,22 +4,21 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
-        <title>Unidad 4</title>
+        <title>El ganchillo de Andrómeda</title>
     </head>
     <body>
         <header>
-            <h1>Web IES Camp</h1>
+            <h1>El ganchillo de Andrómeda</h1>
         </header>
         <nav>
             <ul>
                 <li><a href="index.html" target="_self">Información general</a></li>
-                <li><a href="oferta-formativa.html" target="_self">Oferta formativa</a></li>
-                <li><a href="contacta.html" target="_self">Contacta con nosotros</a></li>
+                <li><a href="contacta.html" target="_self">Contacta</a></li>
             </ul>
         </nav>
         <main>
             <article>
-                <h2>Contacta con nosotros</h2>
+                <h2>Contacta</h2>
                 <section>
                     <form action="#" method="get">
                         <fieldset>
@@ -32,36 +31,13 @@
                             <input id="email" type="email" name="email" placeholder="Email">
                         </fieldset>
                         <fieldset>
-                            <legend>Edad</legend>
-                            <select name="edad">
-                                <option value="menor">Menor de edad</option>
-                                <option value="adulto" selected>Adulto/a</option>
-                                <option value="jubilado">Jubilado/a</option>
-                            </select>
-                        </fieldset>
-                        <fieldset>
-                            <legend>Formación</legend>
-                            <label>Nivel de estudios:</label>
-                            <br>
-                            <input id="sin-estudios" name="nivel-estudios" value="sin-estudios" type="radio" checked>
-                            <label for="sin-estudios">Sin estudios</label>
-                            <br>
-                            <input id="bachillerato" name="nivel-estudios" value="bachillerato" type="radio">
-                            <label for="bachillerato">Bachillerato</label> 
-                            <br>
-                            <input id="fp" name="nivel-estudios" value="fp" type="radio">
-                            <label for="fp">Formación profesional</label>
-                            <br> 
-                            <input id="otros" name="nivel-estudios" value="otros" type="radio">
-                            <label for="otros">Otros</label>                            
-                        </fieldset>
-                        <fieldset>
                             <legend>Mensaje</legend>
-                            <input id="grado" name="grado" type="text" list="grados" placeholder="Selecciona el grado">
-                            <datalist id="grados">
-                                <option>ASIR</option>
-                                <option>DAM</option>
-                                <option>DAW</option>
+                            <input id="motivo" name="motivo" type="text" list="motivo" placeholder="Motivo de contacto">
+                            <datalist id="motivo">
+                                <option>Paquete no recibido</option>
+                                <option>Entrega errónea</option>
+                                <option>Entrega defectuosa</option>
+                                <option>Otros</option>
                             </datalist>
                             <br>
                             <label>Escribe tu mensaje:</label>
@@ -74,6 +50,6 @@
                 </section>
             </article>
         </main>
-        <footer>Diseñado por IES Camp de Morvedre 2022</footer>
+        <footer>El ganchillo de Andrómeda</footer>
     </body>
 </html>
