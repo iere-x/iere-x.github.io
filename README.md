@@ -11,3 +11,5 @@
 | N002     | Copo de nieve grande  | 0,75 € |
 
 ![Gato con ovillo](/github-light/gato_ovillo.jpg)
+
+[Echa un vistazo a la descripción de la empresa]
