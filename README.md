@@ -1,5 +1,3 @@
-# iere-x.github.io
-
 # El ganchillo de Andrómeda
 
 | Artículo |      Descripción      | Precio |
